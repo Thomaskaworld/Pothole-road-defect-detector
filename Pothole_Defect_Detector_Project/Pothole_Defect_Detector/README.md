@@ -1,3 +1,22 @@
+## 🌐 Live Demo
+
+**Try the application here:** [Pothole & Road Defect Detector](https://pothole-road-defect-detector-nvyqpea9qpwavrvvnd8d4b5.streamlit.app/)
+
+Upload a road image to detect potential potholes, view annotated results and bounding-box measurements, and download CSV/JSON reports.
+
+## ✨ Features
+
+- AI-based pothole detection using a trained YOLO model
+- Image upload and annotated detection results
+- Detection confidence scores and bounding-box measurements
+- Estimated image-area coverage
+- Downloadable CSV and JSON reports
+- Streamlit web interface
+
+## ⚠️ Disclaimer
+
+This is a prototype for demonstration purposes. Detection results depend on image quality and model performance and should not replace professional road inspections.
+
 # Pothole & Road Defect Detector
 
 A Streamlit mini-project that uses a pothole-trained YOLO model to detect candidate potholes in road photographs. It displays annotated images, confidence scores, bounding-box measurements, and downloadable CSV/JSON reports.
